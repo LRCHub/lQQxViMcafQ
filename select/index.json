@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "蛍",
+  "base_artist": "福山雅治",
+  "createdAt": "2025-12-28T02:17:04.297988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "蛍",
+      "artist": "Chihiro Onitsuka",
+      "has_synced": false,
+      "path": "select/01_蛍_Chihiro_Onitsuka.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "蛍",
+      "artist": "鬼束ちひろ",
+      "has_synced": true,
+      "path": "select/02_蛍_鬼束ちひろ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "蛍",
+      "artist": "福山雅治",
+      "has_synced": true,
+      "path": "select/03_蛍_福山雅治.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "蛍",
+      "artist": "Maiko Fujita",
+      "has_synced": true,
+      "path": "select/04_蛍_Maiko_Fujita.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "蛍",
+      "artist": "Maiko Fujita",
+      "has_synced": true,
+      "path": "select/05_蛍_Maiko_Fujita.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "蛍",
+      "artist": "Asaki",
+      "has_synced": false,
+      "path": "select/06_蛍_Asaki.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "蛍(Live)",
+      "artist": "Chihiro Onitsuka",
+      "has_synced": false,
+      "path": "select/07_蛍(Live)_Chihiro_Onitsuka.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "蛍",
+      "artist": "TUBE",
+      "has_synced": false,
+      "path": "select/08_蛍_TUBE.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "蛍",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/09_蛍_レミオロメン.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "蛍",
+      "artist": "鬼束ちひろ",
+      "has_synced": true,
+      "path": "select/10_蛍_鬼束ちひろ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蛍",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_01_蛍_福山_雅治.txt"
+    }
+  ]
+}
